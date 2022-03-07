@@ -1,10 +1,6 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "Note to self",
       "text": "Keep calm and code!",
       "Id": "9d4a0a71-9c18-4a38-ad16-24bb10cd4654"
@@ -15,9 +11,19 @@
       "Id": "81af8a11-70c3-45ba-b43b-0c0a4a2931a5"
     },
     {
-      "title": "sadas ",
-      "text": "asdasdas",
-      "Id": "0c9ddb61-2054-41a3-bf97-cec7be668e90"
+      "title": "Note to self",
+      "text": "Keep calm and code!",
+      "Id": "7fbbc747-d03f-493c-9803-5230c4b82c84"
+    },
+    {
+      "title": "Note to self",
+      "text": "Keep calm and code!",
+      "Id": "7e1301f5-1db6-473d-adac-2f66577ede64"
+    },
+    {
+      "title": "asdsrtsdgs",
+      "text": "dsgxcgxcg",
+      "Id": "54bcf7b6-c416-4a39-98ee-80b21ff56fd1"
     }
   ]
 }
