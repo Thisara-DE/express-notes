@@ -3,7 +3,7 @@
   ## Description
   This is a note taking app built on Node.js using Express as the server framework. The API handles GET, POST and DELETE requests based on the front-end user interactions. The user can create and delete notes and the data is persistent on the server. I deployed the application on Heroku (link below).
 
-  
+  https://express-notes-tma.herokuapp.com/notes
 
   <br>
 
