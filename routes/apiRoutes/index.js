@@ -11,7 +11,7 @@ router.get('/notes', (req,res) => {
 
 router.post('/notes', (req,res) => {
     // creating a random unique ID and assigning it to 'uniqueId'
-    req.body.Id = uuidv4();
+    req.body.id = uuidv4();
     
     if(!validateNote(req.body)) {
         res.status(400).send('The note is not properly formatted.');
@@ -26,8 +26,7 @@ router.delete('/notes/:id', (req, res) => {
     const newNotes = deleteNote(req.params.id, notes);
     
 
-    if(newNotes) {
-        
+    if(newNotes) {        
         res.json(newNotes);
     } else {
         res.status(400).send("The note ID doesn't exist");
